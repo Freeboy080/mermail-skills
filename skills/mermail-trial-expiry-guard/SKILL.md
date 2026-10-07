@@ -1,3 +1,16 @@
+---
+name: mermail-trial-expiry-guard
+description: Use this skill for Trial Expiry Guard.
+metadata:
+  openclaw:
+    requires:
+      env:
+        - MERMAIL_API_KEY
+    primaryEnv: MERMAIL_API_KEY
+    homepage: https://docs.mermail.app/ai/skills
+    emoji: 📬
+---
+
 # Trial Expiry Guard
 
 ## What this skill enables
